@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "array_conversion", "flip_your_stck\array_conversion.csproj", "{1559E0B5-D55D-45BC-9580-F9821EE1CE9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1559E0B5-D55D-45BC-9580-F9821EE1CE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1559E0B5-D55D-45BC-9580-F9821EE1CE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1559E0B5-D55D-45BC-9580-F9821EE1CE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1559E0B5-D55D-45BC-9580-F9821EE1CE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3EED7ED-6E60-4852-82E2-D000A1A073DB}
+	EndGlobalSection
+EndGlobal
